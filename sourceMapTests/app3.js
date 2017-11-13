@@ -1,4 +1,4 @@
-SourceMap: app3.js.map
+X-SourceMap: app3.js.map
 
 var arr3 = [6, 4, -2, 8, 7, 0];
 sortAndDisplay3(arr3);
