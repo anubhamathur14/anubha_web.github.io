@@ -4,3 +4,4 @@ function sortAndDisplay2(arr) {
     arr.sort();
     console.log(arr);
 }
+//# sourceMappingURL=app2.js.map
