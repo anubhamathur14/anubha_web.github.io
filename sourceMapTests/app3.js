@@ -6,4 +6,3 @@ function sortAndDisplay3(arr) {
     arr.sort();
     console.log(arr);
 }
-//# sourceMappingURL=app3.js.map
