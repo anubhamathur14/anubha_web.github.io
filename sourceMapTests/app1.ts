@@ -1,6 +1,8 @@
-
-let arr: number[] = [6,4,-2,8];
-sortAndDisplay(arr);
+function testInlineSourceMaps()
+{
+    let arr: number[] = [6,4,-2,8];
+    sortAndDisplay(arr);
+}
 
 function sortAndDisplay (arr: number[])
 {
