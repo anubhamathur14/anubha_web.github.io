@@ -1,4 +1,4 @@
-X-SourceMap: app3.js.map
+SourceMap: app3.js.map
 
 function testSourceMapHeader() {
     var arr3 = [6, 4, -2, 8, 7, 0];
