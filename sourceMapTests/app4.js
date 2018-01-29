@@ -1,6 +1,7 @@
-//This javascript file has an invalid Source with a webPack url.
+//This javascript file has an invalid Source with a webPack url. Also throws exceptions.
 
 function testInvalidSourceMap() { // Should throw an exception
+  doesNotExist.Something();
   getRectArea(3, 'A');
 }
 
